@@ -1,5 +1,10 @@
 #!/bin/bash
 
+### Expect the following file inputs:
+# $1: Raw md file input
+# $2: Bibliography file
+# $3: CSL formatting file.
+
 echo $1
 echo $2
 echo $3
@@ -13,7 +18,7 @@ do
   
   if [[ "$ATIME" != "$LTIME" ]]
   then    
-    pandoc -s $1 --bibliography $2 --filter pandoc-citeproc the-geological-society-of-america.csl -o output/$3 -c paper_style.css
+    pandoc -s $1 --bibliography $2 --filter pandoc-citeproc the-geological-society-of-america.csl -o output/$3
     pandoc -s figures.md -o output/figures.pdf
     LTIME=$ATIME
     echo Done.
