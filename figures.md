@@ -8,4 +8,4 @@
 
 ![Educational material presented on [Neotoma's GitHub Pages](https://neotomadb.github.io/workbooks/AgeModels.html) show the initial stages of constructing chronologies for paleoecological records.](figures/R_withgithub.png){ width=50% }
 
-![CCDRs involved in engagement can access new communities outside of the traditional sphere of activity in the research community.](figures/figureimg.png)
+![CCDRs involved in engagement can access new communities outside of the traditional sphere of activity in the research community.  Clipart of woman at computer created by Nikita Kozin and clip art of database by Vicons Design, both from the Noun Project, licensed under a CC-0 license.](figures/figureimg.png)
