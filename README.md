@@ -1,3 +1,10 @@
+<!-- badges: start -->
+
+[![lifecycle](https://img.shields.io/badge/lifecycle-archived-orange.svg)](https://dx.doi.org/10.1017/9781108681582)
+
+<!-- badges: end -->
+
+
 # THE NEOTOMA PALEOECOLOGY DATABASE: A RESEARCH-OUTREACH NEXUS
 
 This repository is the source for a paper by the members of the Neotoma Paleoecological Database for a special issue to be released by the Palentological Society on the use of web-resources for teaching in the Earth sciences.
